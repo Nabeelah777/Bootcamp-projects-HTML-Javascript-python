@@ -1,0 +1,31 @@
+.left_margin {
+    margin-left: 50px;
+  }
+
+.roman {list-style-type: upper-roman;}
+
+.table1 {
+    border: 1px solid;
+    color:red;
+    padding: 0px 50px 0px 50px;
+    text-align: center;
+  }
+
+
+.blank_row
+{
+    height: 15px !important;
+    background-color: #FFFFFF;
+}
+
+.td {
+    border: 1px solid;
+  }
+
+.th {
+    border: 1px solid;
+  }
+
+  img {
+    border: 5px solid orangered;
+  }
